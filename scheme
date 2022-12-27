@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T18:26:26.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="y7EONeyXmLbWB_o7DDvO" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T19:06:52.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="Akw0LJiURzVwvYVP4W4-" type="github">
   <diagram id="074Rnu0jiIxSSEQHfqZp" name="Page-1">
-    <mxGraphModel dx="729" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="Ur_5TvggIpOx319Kbwme-30" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;Baremetal&lt;br&gt;proxmox node1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=11;fontColor=#190033;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="650" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ur_5TvggIpOx319Kbwme-33" value="&lt;font face=&quot;Lucida Console&quot;&gt;Proxmox VE Cluster&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=11;fontColor=#190033;" vertex="1" parent="1">
-          <mxGeometry x="233.75" y="680" width="122.5" height="40" as="geometry" />
+        <mxCell id="Ur_5TvggIpOx319Kbwme-33" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;Proxmox VE Cluster&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=11;fontColor=#190033;" vertex="1" parent="1">
+          <mxGeometry x="233.75" y="680" width="126.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ur_5TvggIpOx319Kbwme-34" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;Baremetal&lt;br&gt;proxmox node2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;sketch=0;fillStyle=auto;strokeWidth=1;fontSize=11;fontColor=#190033;" vertex="1" parent="1">
           <mxGeometry x="362.5" y="650" width="85" height="20" as="geometry" />
@@ -40,14 +40,56 @@
         <mxCell id="Ur_5TvggIpOx319Kbwme-35" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/MD_snapshot.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="332.44" y="660" width="23.81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ur_5TvggIpOx319Kbwme-38" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontSize=10;fontColor=#190033;fillColor=#FFFF99;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="480" width="290" height="110" as="geometry" />
+        <mxCell id="Ur_5TvggIpOx319Kbwme-38" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontSize=10;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ur_5TvggIpOx319Kbwme-36" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=csr_1000v;fillColor=#FAFAFA;strokeColor=#005073;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontSize=10;fontColor=#190033;" vertex="1" parent="1">
-          <mxGeometry x="170" y="530" width="50" height="50" as="geometry" />
+          <mxGeometry x="170" y="540" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ur_5TvggIpOx319Kbwme-37" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=csr_1000v;fillColor=#FAFAFA;strokeColor=#005073;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontSize=10;fontColor=#190033;" vertex="1" parent="1">
-          <mxGeometry x="375" y="540" width="50" height="50" as="geometry" />
+          <mxGeometry x="380" y="540" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-39" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;VPN Clients: Wireguard&lt;br&gt;Loadbalancer: HAProxy/nginx&lt;br&gt;VPN Server: Wireguard&lt;br&gt;&lt;b&gt;OPNsense redundant firewall&lt;br&gt;Protocol: CARP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;sketch=0;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontSize=10;fontColor=#190033;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="530" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-45" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px; background-color: initial;&quot;&gt;&amp;nbsp;OpenUDS Tunneler&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;OpenUDS Server&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-weight: bold; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;OpenUDS Cluster&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="280" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-46" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#FFFF99;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="474" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-43" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#FFFF99;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-48" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#FFFF99;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="474" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-49" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#FFFF99;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-57" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="163.75" y="360" width="32.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-58" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131.14" y="360" width="32.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-59" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="191.14" y="360" width="32.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-60" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="226.25" y="360" width="32.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-61" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="373.75" y="360" width="32.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-62" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="341.14" y="360" width="32.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-63" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="401.14" y="360" width="32.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-64" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="436.25" y="360" width="32.61" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T19:06:52.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="Akw0LJiURzVwvYVP4W4-" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T06:23:04.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="_Za7zPgrYPg65lQKCNt8" type="github">
   <diagram id="074Rnu0jiIxSSEQHfqZp" name="Page-1">
-    <mxGraphModel dx="1063" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="900" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,21 @@
         </mxCell>
         <mxCell id="Ur_5TvggIpOx319Kbwme-64" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="436.25" y="360" width="32.61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-65" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet_hollow;rounded=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontSize=10;fontColor=#190033;" vertex="1" parent="1">
+          <mxGeometry x="181.82" y="800" width="236.36" height="146.54" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-67" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_WANs.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="820" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-69" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Managed_Desktop.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1040" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-70" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/WebHosting.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="990" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ur_5TvggIpOx319Kbwme-71" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;rounded=1;shadow=0;dashed=1;fillStyle=auto;strokeWidth=1;fontFamily=Lucida Console;fontColor=#190033;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="970" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
